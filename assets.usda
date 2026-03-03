@@ -1,0 +1,30 @@
+#usda 1.0
+
+def Xform "assets" (
+    kind = "group"
+)
+{
+    def "Cube" (
+        prepend references = @./usd/assets/Cube/Cube.usd@</Cube>
+    )
+    {
+    }
+
+    def "Cylinder" (
+        prepend references = @./usd/assets/Cylinder/Cylinder.usd@</Cylinder>
+    )
+    {
+    }
+
+    def "Cylinder_Quarter" (
+        prepend references = @./usd/assets/Cylinder_Quarter/Cylinder_Quarter.usd@</Cylinder_Quarter>
+    )
+    {
+    }
+
+    def "Slope" (
+        prepend references = @./usd/assets/Slope/Slope.usd@</Slope>
+    )
+    {
+    }
+}

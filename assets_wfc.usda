@@ -1,0 +1,288 @@
+#usda 1.0
+
+def Xform "assets" (
+    kind = "group"
+)
+{
+    def "BT_0" (
+        prepend references = @./usd/assets/BT_0/BT_0.usd@</BT_0>
+    )
+    {
+    }
+
+    def "BT_1" (
+        prepend references = @./usd/assets/BT_1/BT_1.usd@</BT_1>
+    )
+    {
+    }
+
+    def "BT_4" (
+        prepend references = @./usd/assets/BT_4/BT_4.usd@</BT_4>
+    )
+    {
+    }
+
+    def "BT_5" (
+        prepend references = @./usd/assets/BT_5/BT_5.usd@</BT_5>
+    )
+    {
+    }
+
+    def "BT_7" (
+        prepend references = @./usd/assets/BT_7/BT_7.usd@</BT_7>
+    )
+    {
+    }
+
+    def "BT_16" (
+        prepend references = @./usd/assets/BT_16/BT_16.usd@</BT_16>
+    )
+    {
+    }
+
+    def "BT_17" (
+        prepend references = @./usd/assets/BT_17/BT_17.usd@</BT_17>
+    )
+    {
+    }
+
+    def "BT_20" (
+        prepend references = @./usd/assets/BT_20/BT_20.usd@</BT_20>
+    )
+    {
+    }
+
+    def "BT_21" (
+        prepend references = @./usd/assets/BT_21/BT_21.usd@</BT_21>
+    )
+    {
+    }
+
+    def "BT_23" (
+        prepend references = @./usd/assets/BT_23/BT_23.usd@</BT_23>
+    )
+    {
+    }
+
+    def "BT_28" (
+        prepend references = @./usd/assets/BT_28/BT_28.usd@</BT_28>
+    )
+    {
+    }
+
+    def "BT_29" (
+        prepend references = @./usd/assets/BT_29/BT_29.usd@</BT_29>
+    )
+    {
+    }
+
+    def "BT_31" (
+        prepend references = @./usd/assets/BT_31/BT_31.usd@</BT_31>
+    )
+    {
+    }
+
+    def "BT_64" (
+        prepend references = @./usd/assets/BT_64/BT_64.usd@</BT_64>
+    )
+    {
+    }
+
+    def "BT_65" (
+        prepend references = @./usd/assets/BT_65/BT_65.usd@</BT_65>
+    )
+    {
+    }
+
+    def "BT_68" (
+        prepend references = @./usd/assets/BT_68/BT_68.usd@</BT_68>
+    )
+    {
+    }
+
+    def "BT_69" (
+        prepend references = @./usd/assets/BT_69/BT_69.usd@</BT_69>
+    )
+    {
+    }
+
+    def "BT_71" (
+        prepend references = @./usd/assets/BT_71/BT_71.usd@</BT_71>
+    )
+    {
+    }
+
+    def "BT_80" (
+        prepend references = @./usd/assets/BT_80/BT_80.usd@</BT_80>
+    )
+    {
+    }
+
+    def "BT_81" (
+        prepend references = @./usd/assets/BT_81/BT_81.usd@</BT_81>
+    )
+    {
+    }
+
+    def "BT_84" (
+        prepend references = @./usd/assets/BT_84/BT_84.usd@</BT_84>
+    )
+    {
+    }
+
+    def "BT_85" (
+        prepend references = @./usd/assets/BT_85/BT_85.usd@</BT_85>
+    )
+    {
+    }
+
+    def "BT_87" (
+        prepend references = @./usd/assets/BT_87/BT_87.usd@</BT_87>
+    )
+    {
+    }
+
+    def "BT_92" (
+        prepend references = @./usd/assets/BT_92/BT_92.usd@</BT_92>
+    )
+    {
+    }
+
+    def "BT_93" (
+        prepend references = @./usd/assets/BT_93/BT_93.usd@</BT_93>
+    )
+    {
+    }
+
+    def "BT_95" (
+        prepend references = @./usd/assets/BT_95/BT_95.usd@</BT_95>
+    )
+    {
+    }
+
+    def "BT_112" (
+        prepend references = @./usd/assets/BT_112/BT_112.usd@</BT_112>
+    )
+    {
+    }
+
+    def "BT_113" (
+        prepend references = @./usd/assets/BT_113/BT_113.usd@</BT_113>
+    )
+    {
+    }
+
+    def "BT_116" (
+        prepend references = @./usd/assets/BT_116/BT_116.usd@</BT_116>
+    )
+    {
+    }
+
+    def "BT_117" (
+        prepend references = @./usd/assets/BT_117/BT_117.usd@</BT_117>
+    )
+    {
+    }
+
+    def "BT_119" (
+        prepend references = @./usd/assets/BT_119/BT_119.usd@</BT_119>
+    )
+    {
+    }
+
+    def "BT_124" (
+        prepend references = @./usd/assets/BT_124/BT_124.usd@</BT_124>
+    )
+    {
+    }
+
+    def "BT_125" (
+        prepend references = @./usd/assets/BT_125/BT_125.usd@</BT_125>
+    )
+    {
+    }
+
+    def "BT_127" (
+        prepend references = @./usd/assets/BT_127/BT_127.usd@</BT_127>
+    )
+    {
+    }
+
+    def "BT_193" (
+        prepend references = @./usd/assets/BT_193/BT_193.usd@</BT_193>
+    )
+    {
+    }
+
+    def "BT_197" (
+        prepend references = @./usd/assets/BT_197/BT_197.usd@</BT_197>
+    )
+    {
+    }
+
+    def "BT_199" (
+        prepend references = @./usd/assets/BT_199/BT_199.usd@</BT_199>
+    )
+    {
+    }
+
+    def "BT_209" (
+        prepend references = @./usd/assets/BT_209/BT_209.usd@</BT_209>
+    )
+    {
+    }
+
+    def "BT_213" (
+        prepend references = @./usd/assets/BT_213/BT_213.usd@</BT_213>
+    )
+    {
+    }
+
+    def "BT_215" (
+        prepend references = @./usd/assets/BT_215/BT_215.usd@</BT_215>
+    )
+    {
+    }
+
+    def "BT_221" (
+        prepend references = @./usd/assets/BT_221/BT_221.usd@</BT_221>
+    )
+    {
+    }
+
+    def "BT_223" (
+        prepend references = @./usd/assets/BT_223/BT_223.usd@</BT_223>
+    )
+    {
+    }
+
+    def "BT_241" (
+        prepend references = @./usd/assets/BT_241/BT_241.usd@</BT_241>
+    )
+    {
+    }
+
+    def "BT_245" (
+        prepend references = @./usd/assets/BT_245/BT_245.usd@</BT_245>
+    )
+    {
+    }
+
+    def "BT_247" (
+        prepend references = @./usd/assets/BT_247/BT_247.usd@</BT_247>
+    )
+    {
+    }
+
+    def "BT_253" (
+        prepend references = @./usd/assets/BT_253/BT_253.usd@</BT_253>
+    )
+    {
+    }
+
+    def "BT_255" (
+        prepend references = @./usd/assets/BT_255/BT_255.usd@</BT_255>
+    )
+    {
+    }
+}

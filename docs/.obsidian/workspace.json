@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "1abe2067585c4ef2",
+    "type": "split",
+    "children": [
+      {
+        "id": "03f667b77cc04b34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a039188bc4571287",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Presentation.canvas",
+                "viewState": {
+                  "x": 3850.8541228921013,
+                  "y": 1677.534244986456,
+                  "zoom": -1.9999999999999998
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Presentation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38eb4fb763a5b9b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7324b2ed4b77c251",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d36c6ce945ca3081",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "628be2fb3b76f977",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f3e9f396a496a7fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "86bf6f2ac1344638",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa5c28902071a86e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa6b43898c4f2612",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Presentation.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Presentation"
+            }
+          },
+          {
+            "id": "8b4306bfaad30d19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Presentation.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Presentation"
+            }
+          },
+          {
+            "id": "7e28026560c4fbbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4ef1fdc8367dbf93",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2530aca997a555d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Presentation.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Presentation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a039188bc4571287",
+  "lastOpenFiles": [
+    "TA Night.md",
+    "Presentation.canvas",
+    "images/Pasted image 20260303222854.png",
+    "images/Pasted image 20260303222833.png",
+    "images/Pasted image 20260303222802.png",
+    "images/Pasted image 20260303222748.png",
+    "images/20260303-1321-09.8556404.mp4",
+    "images/20260303-1144-38.8253322.mp4",
+    "images/instance 1.svg",
+    "images/instance.svg",
+    "images/pointcloudiso.svg",
+    "images/layout.svg",
+    "images/lop_info.svg",
+    "images/copytopoints.svg",
+    "images/import_usd_layout 1.py",
+    "images/import_usd_layout.py",
+    "images/20260303-0921-36.7205194.mp4",
+    "images/20260303-0649-08.0974979.mp4",
+    "images/20260303-0617-05.1069441.mp4",
+    "images/20260303-0612-19.6779383.mp4",
+    "images/AG_0001 - Unreal Editor 2026-03-03 15-09-38.mp4",
+    "images/画面録画 2026-02-17 160520.mp4",
+    "note.md"
+  ]
+}

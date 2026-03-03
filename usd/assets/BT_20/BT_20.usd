@@ -1,0 +1,40 @@
+#usda 1.0
+(
+    defaultPrim = "BT_20"
+    framesPerSecond = 24
+    metersPerUnit = 1
+    timeCodesPerSecond = 24
+    upAxis = "Y"
+)
+
+def Xform "BT_20" (
+    prepend apiSchemas = ["GeomModelAPI", "AssetPreviewsAPI"]
+    assetInfo = {
+        asset identifier = @./BT_20.usd@
+        string name = "BT_20"
+        dictionary previews = {
+            dictionary thumbnails = {
+                dictionary default = {
+                    asset defaultImage = @./thumbnail.png@
+                }
+            }
+        }
+    }
+    customData = {
+        string content_path = "assets/BT_20/BT_20.BT_20"
+    }
+    prepend inherits = </__class__/BT_20>
+    kind = "component"
+    prepend payload = @./payload.usdc@
+)
+{
+    float3[] extentsHint = [(-0.5, 0, -0.5), (0.5, 1, 0.5)]
+}
+
+class "__class__"
+{
+    class "BT_20"
+    {
+    }
+}
+

@@ -1,0 +1,40 @@
+#usda 1.0
+(
+    defaultPrim = "Slope"
+    framesPerSecond = 24
+    metersPerUnit = 1
+    timeCodesPerSecond = 24
+    upAxis = "Y"
+)
+
+def Xform "Slope" (
+    prepend apiSchemas = ["GeomModelAPI", "AssetPreviewsAPI"]
+    assetInfo = {
+        asset identifier = @./Slope.usd@
+        string name = "Slope"
+        dictionary previews = {
+            dictionary thumbnails = {
+                dictionary default = {
+                    asset defaultImage = @./thumbnail.png@
+                }
+            }
+        }
+    }
+    customData = {
+        string content_path = "assets/Slope/Slope.Slope"
+    }
+    prepend inherits = </__class__/Slope>
+    kind = "component"
+    prepend payload = @./payload.usdc@
+)
+{
+    float3[] extentsHint = [(0, 0, 0), (1, 1, 1)]
+}
+
+class "__class__"
+{
+    class "Slope"
+    {
+    }
+}
+
