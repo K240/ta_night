@@ -15,8 +15,8 @@
               "state": {
                 "file": "Presentation.canvas",
                 "viewState": {
-                  "x": 2915.0004250507636,
-                  "y": 1523.8248626689067,
+                  "x": 1978.4338043895261,
+                  "y": 1276.1902985618674,
                   "zoom": -1.6666666666666665
                 }
               },
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "86bf6f2ac1344638",
