@@ -2,11 +2,10 @@
 
 ```
 ta_night/
-├── docs/                 # ドキュメント（本ファイルなど）
+├── docs/                 # ドキュメント
 ├── otls/                 # Houdini デジタルアセット（HDA）
 ├── python/               # Python スクリプト（USDレイアウト処理など）
-│   ├── main.py           # レイアウトエクスポート等のメイン処理
-│   ├── import_usd_layout.py
+│   └── import_usd_layout.py # レイアウトインポート
 ├── usd/                  # USD アセット
 │   └── assets/           # 個別アセット（BT_*, Cube, Cylinder, Slope 等）
 ├── assets.usda           # アセット参照用USD
@@ -17,4 +16,12 @@ ta_night/
 ├── README.md
 └── .gitignore
 ```
+
+## 環境
+
+- Houdini 21.0.631
+- Obsidian
+  - ドキュメントは **obsidian** を使用しています。
+    - https://obsidian.md/
+- Unreal Engine 5.7.3
 

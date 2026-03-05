@@ -15,9 +15,9 @@
               "state": {
                 "file": "Presentation.canvas",
                 "viewState": {
-                  "x": 3850.8541228921013,
-                  "y": 1677.534244986456,
-                  "zoom": -1.9999999999999998
+                  "x": 2915.0004250507636,
+                  "y": 1523.8248626689067,
+                  "zoom": -1.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -189,6 +189,8 @@
   },
   "active": "a039188bc4571287",
   "lastOpenFiles": [
+    "images/Pasted image 20260305122931.png",
+    "images/Pasted image 20260305122516.png",
     "TA Night.md",
     "Presentation.canvas",
     "images/Pasted image 20260303222854.png",
@@ -202,7 +204,6 @@
     "images/pointcloudiso.svg",
     "images/layout.svg",
     "images/lop_info.svg",
-    "images/copytopoints.svg",
     "images/import_usd_layout 1.py",
     "images/import_usd_layout.py",
     "images/20260303-0921-36.7205194.mp4",
