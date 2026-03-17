@@ -1,0 +1,40 @@
+#usda 1.0
+(
+    defaultPrim = "DungeonWall"
+    framesPerSecond = 24
+    metersPerUnit = 1
+    timeCodesPerSecond = 24
+    upAxis = "Y"
+)
+
+def Xform "DungeonWall" (
+    prepend apiSchemas = ["GeomModelAPI", "AssetPreviewsAPI"]
+    assetInfo = {
+        asset identifier = @./DungeonWall.usd@
+        string name = "DungeonWall"
+        dictionary previews = {
+            dictionary thumbnails = {
+                dictionary default = {
+                    asset defaultImage = @./thumbnail.png@
+                }
+            }
+        }
+    }
+    customData = {
+        string content_path = "assets/DungeonWall/DungeonWall.DungeonWall"
+    }
+    prepend inherits = </__class__/DungeonWall>
+    kind = "component"
+    prepend payload = @./payload.usdc@
+)
+{
+    float3[] extentsHint = [(-1, -0.1, -1.2), (1, 0.1, 1)]
+}
+
+class "__class__"
+{
+    class "DungeonWall"
+    {
+    }
+}
+

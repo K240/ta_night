@@ -15,9 +15,9 @@
               "state": {
                 "file": "Presentation.canvas",
                 "viewState": {
-                  "x": 1978.4338043895261,
-                  "y": 1276.1902985618674,
-                  "zoom": -1.6666666666666665
+                  "x": -1830.485792329414,
+                  "y": 527.4293765410639,
+                  "zoom": 0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#「Houdini導入、どう始める？」",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,11 +77,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "86bf6f2ac1344638",

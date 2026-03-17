@@ -1,0 +1,40 @@
+#usda 1.0
+(
+    defaultPrim = "DungeonFloor"
+    framesPerSecond = 24
+    metersPerUnit = 1
+    timeCodesPerSecond = 24
+    upAxis = "Y"
+)
+
+def Xform "DungeonFloor" (
+    prepend apiSchemas = ["GeomModelAPI", "AssetPreviewsAPI"]
+    assetInfo = {
+        asset identifier = @./DungeonFloor.usd@
+        string name = "DungeonFloor"
+        dictionary previews = {
+            dictionary thumbnails = {
+                dictionary default = {
+                    asset defaultImage = @./thumbnail.png@
+                }
+            }
+        }
+    }
+    customData = {
+        string content_path = "assets/DungeonFloor/DungeonFloor.DungeonFloor"
+    }
+    prepend inherits = </__class__/DungeonFloor>
+    kind = "component"
+    prepend payload = @./payload.usdc@
+)
+{
+    float3[] extentsHint = [(-1, -0.050000098, -1), (1, 0, 1)]
+}
+
+class "__class__"
+{
+    class "DungeonFloor"
+    {
+    }
+}
+

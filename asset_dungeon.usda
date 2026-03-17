@@ -1,0 +1,31 @@
+#usda 1.0
+
+def Xform "assets" (
+    kind = "group"
+)
+{
+    def "DungeonFloor" (
+        prepend references = @./usd/assets/DungeonFloor/DungeonFloor.usd@</DungeonFloor>
+    )
+    {
+    }
+
+    def "DungeonWall" (
+        prepend references = @./usd/assets/DungeonWall/DungeonWall.usd@</DungeonWall>
+    )
+    {
+    }
+
+    def "DungeonWall1" (
+        prepend references = @./usd/assets/DungeonWall1/DungeonWall1.usd@</DungeonWall1>
+    )
+    {
+    }
+
+    def "DungeonSlope" (
+        prepend references = @./usd/assets/DungeonSlope/DungeonSlope.usd@</DungeonSlope>
+    )
+    {
+    }
+
+}
